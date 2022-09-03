@@ -1,9 +1,9 @@
-# Halo semua! 
+Hi! 👋 I'm Nadia.
+An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-Perkenalkan nama saya **Nadia Tasya**.\
-
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+🔭 I’m a student at Muhammadiyah Malang University
+🌱 I’m currently learning about cloud technology for back-end apps
+💬 Feel free to ask me about web development or JavaScript
+📫 How to reach me: nadtasya08@gmail.com
+⚡ Fun fact: Astrophile
 
