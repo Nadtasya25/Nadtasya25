@@ -1,9 +1,9 @@
-**Hi! 👋 I'm Nadia.**  
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+**Hi! 👋 I'm Nasya**  
+An independent Software Engineer passionate about crafting meaningful web and mobile experiences. Currently growing as a Junior Frontend Developer, focused on building clean, responsive, and user-friendly interfaces.
 
-🔭 I’m a student at Muhammadiyah Malang University  
-🌱 I’m currently learning about cloud technology for back-end apps  
-💬 Feel free to ask me about web development or JavaScript  
-📫 How to reach me: nadtasya08@gmail.com  
-⚡ Fun fact: Astrophile  
+🎓 Graduate of Muhammadiyah Malang University
+🌱 Exploring cloud technologies for modern back-end applications
+💬 Open to discussions about frontend development and web technologies
+📫 Let’s connect: nadtasya08@gmail.com
+⚡ Fun fact: A lover of the sky, clouds, and everything blue ☁️💙
 
